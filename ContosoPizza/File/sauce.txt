@@ -1,0 +1,6 @@
+name, vegan
+"fish sauce", true
+"soy sauce", false
+"beet root", true
+"potato root", true
+"purple yam", true

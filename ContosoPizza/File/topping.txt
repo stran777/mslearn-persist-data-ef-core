@@ -1,0 +1,5 @@
+name, calories
+"steak", 120
+"pork", 122
+"bbq", 100
+"duck", 120
